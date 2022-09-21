@@ -1,4 +1,4 @@
-# AlphaStellarWebApiPoject
+# Web Api Poject
 
 This project is made for AlphaStellar and this is a .net core web api project.
 
